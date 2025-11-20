@@ -1,0 +1,2 @@
+# Value-Bearer-Notes-and-the-Fourth-Financial-Instrument-Architecture-Exchange-and-Index
+The value bearer instrument is a compliance-native, corridor-specific, and regulator-ready financial instrument. It draws on the historical strengths of bearer notes—liquidity, transferability, and simplicity—while embedding advanced security, auditability, and digital registry features to address modern regulatory and operational requirements.
