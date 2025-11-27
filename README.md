@@ -52,20 +52,6 @@ into a single immutable credential recorded on a registry. Ownership is determin
 - Coverage window  
 - Risk class  
 
-### Minting Output
-```json
-{
-  "credential_id": "...",
-  "asset_fingerprint": "...",
-  "tag_uid": "...",
-  "provenance_root": "...",
-  "telemetry_root": "...",
-  "insurance_root": "...",
-  "issuer_signature": "..."
-}
-
-
----
 
 Lifecycle
 
@@ -77,8 +63,6 @@ Lifecycle
 6. Settlement — redemption or liquidation
 7. Audit Replay — deterministic reconstruction of custody history
 
-
----
 
 Financial Properties
 
@@ -98,8 +82,6 @@ But unlike any of them, MBIs are:
 • Insurance‑bound
 
 
----
-
 Bridging Functions
 
 Equity Bridge
@@ -114,7 +96,6 @@ Derivative Bridge
 
 MBIs provide transparent, auditable underlying assets for futures, options, and structured products.
 
----
 
 Regulatory Classification
 
@@ -125,8 +106,6 @@ MBIs are distinct from equity, debt, and derivatives but interact with all three
 • Digital asset transfer frameworks
 • Anti‑fraud and provenance standards
 
-
----
 
 Market Impact
 
@@ -141,7 +120,6 @@ MBIs unify physical and digital finance by providing:
 
 This enables new markets built on real‑world assets with digital‑grade trust.
 
----
 
 Implementation Roadmap
 
@@ -149,8 +127,6 @@ Implementation Roadmap
 • 90–180 days → Launch enterprise pilots with telemetry‑driven pricing, implement claims workflows
 • 180–365 days → Scale partnerships, introduce pooled captive facilities, implement smart‑contract settlement rails
 
-
----
 
 Comparative Analysis
 
@@ -160,8 +136,6 @@ Verification	Corporate registry	Contract terms	Market pricing	Cryptographic cred
 Risk profile	Market volatility	Credit/default risk	Counterparty risk	Custody, tamper, provenance risk	
 Insurance	Rarely integrated	Sometimes collateralized	Limited	Natively bound to policy	
 
-
----
 
 Conclusion
 
