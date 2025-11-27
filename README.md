@@ -1,8 +1,4 @@
-Here’s a GitHub‑ready README draft of the comprehensive chapter on Minted Bearer Instruments. I’ve formatted it in clean Markdown style, with headings, lists, and tables so it reads naturally as a repository README.
-
----
-
-# Minted Bearer Instruments — A Fourth Financial Category
+#Minted Bearer Instruments — A Fourth Financial Category
 
 ## Introduction
 Financial markets have long relied on three categories of instruments: **equity**, **debt**, and **derivatives**. These govern ownership, credit, and risk transfer. Yet none provide a standardized, programmable, verifiable mechanism for representing **physical assets** in digital markets.
