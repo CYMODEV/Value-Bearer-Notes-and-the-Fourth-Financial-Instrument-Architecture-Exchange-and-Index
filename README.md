@@ -2,7 +2,7 @@
 
 ## Introduction
 Financial markets have long relied on three categories of instruments: **equity**, **debt**, and **derivatives**. These govern ownership, credit, and risk transfer. Yet none provide a standardized, programmable, verifiable mechanism for representing **physical assets** in digital markets.
-
+cymo1@outlook.com
 The **Minted Bearer Instrument (MBI)** introduces a **fourth category**:
 > A cryptographically minted, self‑authenticating financial instrument that binds a physical asset to a digital credential, enabling ownership, collateralization, and derivative use without intermediaries.
 
